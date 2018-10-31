@@ -24,9 +24,13 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
   src/main.js
     注释
+    
     import { Button, Row } from 'element-ui'
+    
     Vue.use(Button)
+    
     Vue.use(Row)
+    
     放开
     import ElementUI from 'element-ui';
     import 'element-ui/lib/theme-chalk/index.css';
